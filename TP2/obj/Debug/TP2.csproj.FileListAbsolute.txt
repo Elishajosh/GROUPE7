@@ -38,3 +38,6 @@ C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\System.Numerics.Vector
 C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\james-mat\Documents\Project C#\TP2\TP2\obj\Debug\TP2.csproj.AssemblyReference.cache
+C:\Users\James\Desktop\GROUPE7\GROUPE7\TP2\bin\Debug\TP2.exe.config
+C:\Users\James\Desktop\GROUPE7\GROUPE7\TP2\obj\Debug\TP2.exe
+C:\Users\James\Desktop\GROUPE7\GROUPE7\TP2\obj\Debug\TP2.pdb
