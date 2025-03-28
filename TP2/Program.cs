@@ -40,6 +40,7 @@ namespace TP2
             Interfaces.Student s3 = new Interfaces.Student("idolwa", "nsunga", "legrand");
             Interfaces.Student s4 = new Interfaces.Student("elisha", "mvuya", "josue");
             Interfaces.Student s5 = new Interfaces.Student("iradukunda", "chiza", "isac");
+            Interfaces.Student s6 = new Interfaces.Student("heri", "yoshwa", "junior");
 
             t2.Add(2);
             s2.Add(2);
