@@ -35,8 +35,8 @@ namespace TP2
             Console.WriteLine("INTERFACE ");
             Console.WriteLine("===============\n");
 
-            Interfaces.Teacher t2 = new Interfaces.Teacher("michek", "saba", "lkji");
-            Interfaces.Student s2 = new Interfaces.Student("mola", "mali", "22lsi65774");
+            Interfaces.Teacher t2 = new Interfaces.Teacher("etindekwa", "saba", "jean");
+            Interfaces.Student s2 = new Interfaces.Student("faraja", "cikwanine", "lionel");
 
             t2.Add(2);
             s2.Add(2);
