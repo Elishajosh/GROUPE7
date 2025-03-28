@@ -37,6 +37,7 @@ namespace TP2
 
             Interfaces.Teacher t2 = new Interfaces.Teacher("etindekwa", "saba", "jean");
             Interfaces.Student s2 = new Interfaces.Student("faraja", "cikwanine", "lionel");
+            Interfaces.Student s3 = new Interfaces.Student("idolwa", "nsunga", "legrand");
 
             t2.Add(2);
             s2.Add(2);
